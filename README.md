@@ -8,7 +8,8 @@ Team members:
 - Melis
 - Aleyna Atan
 - Furkan Çiçek
-Project: Urban Sounds Classification using OpenCV and Convolutional Neural Networks (CNN)
+
+- Project: Urban Sounds Classification using OpenCV and Convolutional Neural Networks (CNN)
 
 
 Dataset:
