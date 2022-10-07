@@ -5,7 +5,7 @@ Global AI Hub, Deep Learning Bootcamp - Team SuperVoid / Group: 2
 **Team members:**
 
 - Arman Aksel Kantar
-- Melis
+- Melis Arıcıoğlu
 - Aleyna Atan
 - Furkan Çiçek
 
